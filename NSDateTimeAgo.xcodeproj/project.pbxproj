@@ -302,6 +302,7 @@
 				PRODUCT_NAME = NSDateTimeAgo;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -324,6 +325,7 @@
 				PRODUCT_NAME = NSDateTimeAgo;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
